@@ -56,4 +56,4 @@ if st.button('Predict Probability'):
     st.header(batting_team + "- " + str(round(win*100)) + "%")
     st.header(bowling_team + "- " + str(round(loss*100)) + "%")
  
- streamlit runn app.py
+
